@@ -7,11 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-<style>
-.author-avatar img {
-  border-radius: 0 !important;
-}
-</style>
 
 Hi! I am a PhD student in Chinese Studies at the University of Zurich. 
 

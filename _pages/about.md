@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I am a PhD student in Chinese Studies at the University of Zurich. 
 
-My research interests lie in political institutions, state–society relations, developmental politics and Chinese politics. 
+My research interests lie in political economy, political institutions and state–society relations. 
 
 My doctoral research investigates corporate governance and labor control within authoritarian capitalism, with a particular focus on the role of embedded Party organizations in China’s technology sector. Methodologically, I combine qualitative and computational approaches, drawing on diverse sources including Party regulations, legal documents, official texts, and employee-generated materials, complemented by fieldwork.
 

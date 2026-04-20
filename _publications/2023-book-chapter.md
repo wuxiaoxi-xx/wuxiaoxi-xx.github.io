@@ -12,4 +12,4 @@ category: books
 ---
 
 ### Citation
-Wu, Xiaoxi and Yifan Zhang. 2023. "Classics of Developmental Politics". In Disciplinary Map of Development Politics, edited by Jirong Yan and Xiao Ma, 437–447. Beijing: Peking University Press.
+Wu, Xiaoxi and Yifan Zhang. 2023. "Classics of Developmental Politics". In *Disciplinary Map of Development Politics*, edited by Jirong Yan and Xiao Ma, 437–447. Beijing: Peking University Press.

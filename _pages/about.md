@@ -1,4 +1,3 @@
-
 ---
 permalink: /
 #title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
@@ -8,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am a PhD student in Chinese Studies at the University of Zurich. 
+I am a PhD student in Chinese Studies at the University of Zurich. 
 
 My research interests lie in political institutions, state–society relations, developmental politics and Chinese politics. 
 

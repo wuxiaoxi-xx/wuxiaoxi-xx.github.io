@@ -1,16 +1,25 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+#title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I am a PhD student in Chinese Studies at the University of Zurich. 
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+My research interests lie in political institutions, state–society relations, developmental politics and Chinese politics. 
 
+My doctoral research investigates corporate governance and labor control within authoritarian capitalism, with a particular focus on the role of embedded Party organizations in China’s technology sector. Methodologically, I combine qualitative and computational approaches, drawing on diverse sources including Party regulations, legal documents, official texts, and employee-generated materials, complemented by fieldwork.
+
+Previously, my bachelor’s thesis explored the dynamics of collusion and contention among villagers, village cadres, and street-level bureaucrats during land requisition in rural China. My master’s thesis examined informal institutions and gender inequality in the public sector, analyzing how drinking banquet culture shapes promotion patterns and constrains women’s career advancement in China's bureaucracy.
+
+I have extensive training in both qualitative and quantitative methods. I have participated in large-scale survey projects such as the Beijing Area Study (BAS) and the China Health and Retirement Longitudinal Study (CHARLS). As a research assistant, I gained hands-on experience in data collection and analysis of large-scale datasets, as well as computational social science methods, including topic modeling and sentiment analysis.
+
+I received my Bachelor’s degree in Philosophy, Politics and Economics and my Master’s degree in Chinese Politics from Peking University.
+
+<!--
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
@@ -54,3 +63,4 @@ Example: editing a Markdown file for a talk
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+-->

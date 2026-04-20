@@ -11,7 +11,6 @@ As part of my public engagement, I host a podcast exploring themes in comparativ
 
 🎧 Listen on Spotify:  
 Coming soon
-#https://open.spotify.com/your-link
 
 ---
 

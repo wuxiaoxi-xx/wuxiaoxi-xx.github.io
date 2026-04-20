@@ -1,5 +1,5 @@
 ---
-title: "Punching the White Coat: How Knowledge, Contact, and Authoritarian Personality Shape Trust and Attitudes toward Violence Against Medical Professionals."
+title: "Punching the White Coat: How Knowledge, Contact, and Authoritarian Personality Shape Trust and Attitudes toward Violence Against Medical Professionals"
 collection: publications
 category: conferences
 permalink: /publication/2024-04-27-doctor-patient-bridge

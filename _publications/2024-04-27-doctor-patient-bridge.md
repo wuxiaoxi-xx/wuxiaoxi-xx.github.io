@@ -3,7 +3,7 @@ title: "Punching the White Coat: How Knowledge, Contact, and Authoritarian Perso
 collection: publications
 category: conferences
 date: 2024-04-27
-venue: "10th Annual Conference on Frontier Theories and Methods in Political Science, Tsinghua University"
+venue: "10th Annual Conference on Frontier Theories and Methods in Political Science"
 authors: "Xiaoxi Wu, Yifan Zhang, and Xiao Ma"
 note: "Author order to be determined."
 ---

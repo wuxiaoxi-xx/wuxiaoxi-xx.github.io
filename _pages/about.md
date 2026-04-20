@@ -1,9 +1,4 @@
 
-<style>
-.author-profile .author-avatar img {
-  border-radius: 0 !important;
-}
-</style>
 
 ---
 permalink: /

@@ -13,7 +13,7 @@ redirect_from:
 }
 </style>
 
-I am a PhD student in Chinese Studies at the University of Zurich. 
+Hi! I am a PhD student in Chinese Studies at the University of Zurich. 
 
 My research interests lie in political institutions, state–society relations, developmental politics and Chinese politics. 
 

@@ -1,7 +1,7 @@
 
 <style>
 .author-profile .author-avatar img {
-  border-radius: 10px !important;
+  border-radius: 0 !important;
 }
 </style>
 
@@ -14,7 +14,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Chinese Studies at the University of Zurich. 
+Hi! I am a PhD student in Chinese Studies at the University of Zurich. 
 
 My research interests lie in political institutions, state–society relations, developmental politics and Chinese politics. 
 

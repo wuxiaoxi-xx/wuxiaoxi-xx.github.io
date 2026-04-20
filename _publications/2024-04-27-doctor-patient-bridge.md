@@ -7,5 +7,3 @@ venue: "10th Annual Conference on Frontier Theories and Methods in Political Sci
 authors: "Xiaoxi Wu, Yifan Zhang, and Xiao Ma"
 note: "Author order to be determined."
 ---
-
-Presented at the 10th Annual Conference on Frontier Theories and Methods in Political Science, hosted by the Department of Political Science and the Center for Data Governance, Tsinghua University, April 27, 2024.

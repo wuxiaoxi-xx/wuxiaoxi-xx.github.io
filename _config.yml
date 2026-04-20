@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Xiaoxi Wu's Academic Homepage"
+title                    : "Xiaoxi Wu"
 title_separator          : "-"
 name                     : &name "Xiaoxi Wu"
 description              : &description "PhD Candidate | Chinese Studies"   # Update this with a general description of your site, this is the default if not overridden by a page

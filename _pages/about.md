@@ -1,3 +1,10 @@
+
+<style>
+.author-profile .author-avatar img {
+  border-radius: 10px !important;
+}
+</style>
+
 ---
 permalink: /
 #title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"

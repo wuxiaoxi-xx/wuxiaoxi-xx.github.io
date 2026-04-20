@@ -16,7 +16,7 @@ Coming soon
 
 ## PhD Application Mentorship
 
-I provide voluntary mentorship to prospective PhD applicants, particularly those interested in political science and China studies. I am happy to offer guidance on research proposals, academic CVs, and navigating the application process.
+I provide voluntary mentorship on PhD applications for young women from rural China, particularly those interested in political science and China studies. I am happy to offer guidance on research proposals, academic CVs, and navigating the application process.
 
 📅 Book a session:  
 https://calendly.com/xiaoxiwu_bookmytime

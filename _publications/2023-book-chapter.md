@@ -1,5 +1,6 @@
 ---
 title: "Classics of Developmental Politics"
+collection: publications
 date: 2023
 venue: "In Disciplinary Map of Development Politics"
 pages: 437–447

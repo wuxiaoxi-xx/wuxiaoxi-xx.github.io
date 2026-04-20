@@ -15,7 +15,12 @@ main:
     url: /teaching/    
         
   - title: "Outreach"
-    url: /year-archive/
+  url: 
+  children:
+    - title: "Podcast"
+      url: /podcast/
+    - title: "PhD Application Mentorship"
+      url: /phd-mentorship/
     
   - title: "CV"
     url: /cv/

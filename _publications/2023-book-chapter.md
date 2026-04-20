@@ -7,7 +7,7 @@ publisher: "Peking University Press"
 location: "Beijing"
 authors: "Xiaoxi Wu and Yifan Zhang"
 editors: "Jirong Yan and Xiao Ma"
-category: book_chapters   # ADD THIS LINE
+category: book_chapters   
 ---
 
 ### Citation

@@ -90,6 +90,8 @@ publication_category:
     title: 'Journal Articles'    
   conferences:
     title: 'Conference Papers'
+  wip:
+    title: 'Work in Progress'
     
 # Outreach Category
 outreach_category:

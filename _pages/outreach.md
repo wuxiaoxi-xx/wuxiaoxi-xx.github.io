@@ -19,4 +19,4 @@ As part of my public engagement, I host a podcast exploring themes in comparativ
 I provide voluntary mentorship on PhD applications for young women from rural China, particularly those interested in political science and China studies. I am happy to offer guidance on research proposals, academic CVs, and navigating the application process.
 
 📅 Book a session:  
-https://calendly.com/xiaoxiwu_bookmytime
+[Book a Meeting](https://calendly.com/xiaoxiwu_bookmytime)

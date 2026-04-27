@@ -10,7 +10,7 @@ author_profile: true
 As part of my public engagement, I host a podcast exploring themes in comparative politics, political economy, and international politics. The podcast aims to make academic research more accessible to a broader audience.
 
 🎧 Listen on Spotify:  
-Coming soon
+https://open.spotify.com/show/3hrS7Mtrc6CbRR91qNKzl8?si=e67b3c520a04462f
 
 ---
 
